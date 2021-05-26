@@ -1,10 +1,10 @@
-### eco-engine-rs
+# eco-engine-rs
 
 A basic game engine written in Rust.
 
 >Ugly, early code.
 
-Goals:
-------
-- Learn/Implement Vulkan (X)
+## Goals:
+- [ ] Begin work on basic rendering.
+- [ ] Begin work on game engine-related stuff.
 
