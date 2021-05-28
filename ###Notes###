@@ -1,6 +1,18 @@
 ###Notes###
 
-- impl a window
+(implement vulkan):
+1. create a vulkan instance
+2. enumerate the physical devices/cards
+3. create device from physical device && create queue
+4. create CPU to GPU buffers for data (command, cpu-accessible-buffer, etc)
+5. create the compute pipelines
+
+
+- handle shaders at runtime
 
 - learn basics of vulkan
     (validation layers, etc)
+
+- refactor and document
+
+- fix the panic on breakpoint set
