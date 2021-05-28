@@ -1,4 +1,3 @@
-
 pub struct Application {
     pub name: String,
     pub build: String,
