@@ -2,5 +2,5 @@ mod vulkan;
 mod data;
 
 fn main() {
-    vulkan::init::init();
+    vulkan::init::init(crate::data::application::Application::default());
 }
