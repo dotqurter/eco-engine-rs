@@ -5,7 +5,7 @@ A basic game engine written in Rust.
 >Ugly, early code.
 
 ## Goals:
-- [-] Begin work on basic rendering.
+- [ ] Begin work on basic rendering.
     - [x] Create a window.
     - [ ] Create a Vulkan instance.
     - [ ] Enumerate Vulkan's devices.
