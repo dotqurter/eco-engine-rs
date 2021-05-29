@@ -8,4 +8,6 @@ edition = "2018"
 
 [dependencies]
 winit = "*"
-vulkano = "*"
+vulkano = { git = "https://github.com/vulkano-rs/vulkano" }
+vk-sys = "=0.5.2"
+vulkano-win = { git = "https://github.com/vulkano-rs/vulkano" }
