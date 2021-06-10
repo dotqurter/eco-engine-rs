@@ -5,6 +5,7 @@ A basic game engine written in Rust.
 >Ugly, early code.
 
 ## Goals:
+- [ ] Fix the VSCode launch to be useful.
 - [ ] Begin work on basic rendering.
     - [x] Create a window.
     - [ ] Create a Vulkan instance.
@@ -20,3 +21,8 @@ A basic game engine written in Rust.
 - [ ] Improve module imports && documentation.
 - [ ] Major refactoring, code shortening, and bugfixing.
 - [ ] Implement a scripting language.
+
+--------------------------------------------------
+## Formatting Rules:
+
+- `rust-analyzer`'s format is what I use.

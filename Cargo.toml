@@ -7,7 +7,5 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-winit = "*"
-vulkano = { git = "https://github.com/vulkano-rs/vulkano" }
-vk-sys = "=0.5.2"
-vulkano-win = { git = "https://github.com/vulkano-rs/vulkano" }
+vulkano = "*"
+image = "*"
