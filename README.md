@@ -7,7 +7,7 @@ A basic game engine written in Rust.
 ## Goals:
 - [ ] Fix the VSCode launch to be useful.
 - [ ] Begin work on basic rendering.
-    - [x] Create a window.
+    - [ ] Create a window.
     - [ ] Create a Vulkan instance.
     - [ ] Enumerate Vulkan's devices.
     - [ ] Create Vulkan Devices.

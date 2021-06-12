@@ -12,5 +12,5 @@ fn main() {
     println!("bruh");
 
     //works as intended: need to implement the main window loop.
-    w.join();
+    w.join().expect("Failed to join the render loop. Something is horridly wrong.");
 }
